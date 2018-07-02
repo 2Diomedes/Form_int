@@ -7,6 +7,9 @@ form {
 
 input {
   margin: 1em;
+  border: 1px solid grey;
+  border-radius: 5px;
+
 }
 
 fieldset input, #send, #reset {
